@@ -29,20 +29,20 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
-#google.plus:        username
-twitter:            username
-#facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+email:             nkausik1999@gmail.com
+google.plus:        KausikN
+#twitter:            username
+facebook:           https://www.facebook.com/kausik.narayanan
+github:             https://github.com/KausikN
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:          https://www.linkedin.com/in/kausik-n-7a9800170/
 #xing:              username
-#instagram:          username
+instagram:          https://www.instagram.com/kausik_n/
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
 #foursquare:        username
-#steam:              username
+steam:              https://steamcommunity.com/id/InfinityJoker/
 #dribbble:          username
 #youtube:           username
 #soundcloud:        username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
