@@ -1,6 +1,6 @@
 - title: Pixel Break
   url: https://github.com/KausikN/PixelBreak
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
+  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/PixelBreak_1.jpg
   completed: true
 
 - title: Neural Network Nuke
@@ -10,7 +10,7 @@
 
 - title: Maze Runner
   url: https://github.com/KausikN/MazeRunner-Project
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/MazeRunner_1.png
   completed: true
   
 - title: LAN File Transfer
