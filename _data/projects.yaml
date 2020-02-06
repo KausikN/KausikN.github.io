@@ -18,7 +18,7 @@
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-1.jpg
   completed: true
 
-- title: Random Idea Organiser
+- title: IdeaX
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-9.jpg
   completed: false
@@ -30,5 +30,10 @@
 
 - title: MediaTor
   url: https://github.com/KausikN/MediaTor-Project
+  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  completed: false
+
+- title: HospiDB
+  url: https://github.com/KausikN/HospiDB-Project
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
   completed: false
