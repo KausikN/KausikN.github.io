@@ -1,29 +1,29 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
+- title: Pixel Break
+  url: https://github.com/KausikN/PixelBreak
   image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
+  completed: true
 
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
+- title: Neural Network Nuke
+  url: https://github.com/KausikN/NeuralNetworkNuke
   image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
+- title: Maze Runner
+  url: https://github.com/KausikN/MazeRunner-Project
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
+- title: Random Idea Organiser
+  url: https://github.com/KausikN/RandomIdeaOrganiser-Project
   image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
-  completed: true
-
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
   completed: false
 
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
+- title: Help4All
+  url: https://github.com/KausikN/HELP4ALL-Project
+  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+  completed: true
+
+- title: MediaTor
+  url: https://github.com/KausikN/MediaTor-Project
   image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
   completed: false
