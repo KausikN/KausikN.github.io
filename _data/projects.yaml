@@ -12,6 +12,11 @@
   url: https://github.com/KausikN/MazeRunner-Project
   image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
   completed: true
+  
+- title: LAN File Transfer
+  url: https://github.com/KausikN/LANFileTransfer_Java-Project
+  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  completed: true
 
 - title: Random Idea Organiser
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
