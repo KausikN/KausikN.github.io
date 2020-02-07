@@ -17,16 +17,21 @@
   url: https://github.com/KausikN/LANFileTransfer_Java-Project
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-1.jpg
   completed: true
+  
+ - title: Help4All
+  url: https://github.com/KausikN/HELP4ALL-Project
+  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/project.jpg
+  completed: true
+  
+ - title: Securo
+  url: https://github.com/KausikN/Securo
+  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  completed: false
 
 - title: IdeaX
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-9.jpg
   completed: false
-
-- title: Help4All
-  url: https://github.com/KausikN/HELP4ALL-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/project.jpg
-  completed: true
 
 - title: MediaTor
   url: https://github.com/KausikN/MediaTor-Project
