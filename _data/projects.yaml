@@ -46,9 +46,9 @@
 - title: IdeaX
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-9.jpg
-  completed: false
+  completed: true
 
 - title: HospiDB
   url: https://github.com/KausikN/HospiDB-Project
   image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
-  completed: false
+  completed: true
