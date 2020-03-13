@@ -5,55 +5,55 @@
 
 - title: Neural Network Nuke
   url: https://github.com/KausikN/NeuralNetworkNuke
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-gallery-image-3.jpg
+  image: images/unsplash-gallery-image-3.jpg
   completed: true
   
 - title: GigaCode
   url: https://github.com/KausikN/GigaCode
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-gallery-image-3.jpg
+  image: images/unsplash-gallery-image-3.jpg
   completed: true
 
 - title: Maze Runner
   url: https://github.com/KausikN/MazeRunner-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/MazeRunner_1.png
+  image: images/MazeRunner_1.png
   completed: true
   
 - title: LAN File Transfer
   url: https://github.com/KausikN/LANFileTransfer_Java-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-1.jpg
+  image: images/unsplash-image-1.jpg
   completed: true
   
 - title: MediaTor
   url: https://github.com/KausikN/MediaTor-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  image: images/unsplash-image-4.jpg
   completed: true
   
 - title: MusicMaker
   url: https://github.com/KausikN/MusicMaker
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  image: images/unsplash-image-4.jpg
   completed: true
   
 - title: Help4All
   url: https://github.com/KausikN/HELP4ALL-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/project.jpg
+  image: images/project.jpg
   completed: true
   
 - title: Securo
   url: https://github.com/KausikN/Securo
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  image: images/unsplash-image-4.jpg
   completed: false
   
 - title: Nucleus
   url: https://github.com/KausikN/Nucleus
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  image: images/unsplash-image-4.jpg
   completed: true
 
 - title: IdeaX
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-9.jpg
+  image: images/unsplash-image-9.jpg
   completed: true
 
 - title: HospiDB
   url: https://github.com/KausikN/HospiDB-Project
-  image: https://github.com/KausikN/KausikN.github.io/blob/master/images/unsplash-image-4.jpg
+  image: images/unsplash-image-4.jpg
   completed: true
