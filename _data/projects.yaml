@@ -2,6 +2,11 @@
   url: https://github.com/KausikN/PixelBreak
   image: images/PixelBreak_1.jpg
   completed: true
+  
+- title: Meme Compress
+  url: https://github.com/KausikN/MemeCompress
+  image: images/unsplash-gallery-image-3.jpg
+  completed: true
 
 - title: Neural Network Nuke
   url: https://github.com/KausikN/NeuralNetworkNuke
