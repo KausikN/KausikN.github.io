@@ -5,17 +5,17 @@
   
 - title: Meme Compress
   url: https://github.com/KausikN/MemeCompress
-  image: images/unsplash-gallery-image-3.jpg
+  image: images/MemeCompress_1.jpg
   completed: true
 
 - title: Neural Network Nuke
   url: https://github.com/KausikN/NeuralNetworkNuke
-  image: images/unsplash-gallery-image-3.jpg
+  image: images/NeuralNetworkNuke_1.jpg
   completed: true
   
 - title: GigaCode
   url: https://github.com/KausikN/GigaCode
-  image: images/unsplash-gallery-image-3.jpg
+  image: images/GigaCode_1.jpg
   completed: true
 
 - title: Maze Runner
@@ -25,40 +25,40 @@
   
 - title: LAN File Transfer
   url: https://github.com/KausikN/LANFileTransfer_Java-Project
-  image: images/unsplash-image-1.jpg
+  image: images/LanFileTransfer_1.jpg
   completed: true
   
 - title: MediaTor
   url: https://github.com/KausikN/MediaTor-Project
-  image: images/unsplash-image-4.jpg
+  image: images/MediaTor_1.jpg
   completed: true
   
 - title: MusicMaker
   url: https://github.com/KausikN/MusicMaker
-  image: images/unsplash-image-4.jpg
+  image: images/MusicMaker_1.jpg
   completed: true
   
 - title: Help4All
   url: https://github.com/KausikN/HELP4ALL-Project
-  image: images/project.jpg
+  image: images/Help4All_1.jpg
   completed: true
   
 - title: Securo
   url: https://github.com/KausikN/Securo
-  image: images/unsplash-image-4.jpg
+  image: images/Securo_1.jpg
   completed: false
   
 - title: Nucleus
   url: https://github.com/KausikN/Nucleus
-  image: images/unsplash-image-4.jpg
+  image: images/Nucleus_1.jpg
   completed: true
 
 - title: IdeaX
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
-  image: images/unsplash-image-9.jpg
+  image: images/IdeaX_1.jpg
   completed: true
 
 - title: HospiDB
   url: https://github.com/KausikN/HospiDB-Project
-  image: images/unsplash-image-4.jpg
+  image: images/HospiDB_1.jpg
   completed: true
