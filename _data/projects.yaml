@@ -5,12 +5,12 @@
   
 - title: Meme Compress
   url: https://github.com/KausikN/MemeCompress
-  image: images/MemeCompress_1.jpg
+  image: images/MemeCompress_1.png
   completed: true
 
 - title: Neural Network Nuke
   url: https://github.com/KausikN/NeuralNetworkNuke
-  image: images/NeuralNetworkNuke_1.jpg
+  image: images/NeuralNetworkNuke_1.png
   completed: true
   
 - title: GigaCode
@@ -25,7 +25,7 @@
   
 - title: LAN File Transfer
   url: https://github.com/KausikN/LANFileTransfer_Java-Project
-  image: images/LanFileTransfer_1.jpg
+  image: images/LanFileTransfer_1.png
   completed: true
   
 - title: MediaTor
@@ -40,7 +40,7 @@
   
 - title: Help4All
   url: https://github.com/KausikN/HELP4ALL-Project
-  image: images/Help4All_1.jpg
+  image: images/Help4All_1.PNG
   completed: true
   
 - title: Securo
@@ -55,10 +55,10 @@
 
 - title: IdeaX
   url: https://github.com/KausikN/RandomIdeaOrganiser-Project
-  image: images/IdeaX_1.jpg
+  image: images/IdeaX_1.png
   completed: true
 
 - title: HospiDB
   url: https://github.com/KausikN/HospiDB-Project
-  image: images/HospiDB_1.jpg
+  image: images/HospiDB_1.png
   completed: true
