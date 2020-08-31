@@ -1,3 +1,8 @@
+- title: Conway's Game of Life
+  url: https://github.com/KausikN/ConwaysGameofLife
+  image: images/Conway_1.gif
+  completed: true
+
 - title: ImTron
   url: https://github.com/KausikN/ImTron
   image: images/ImTron_1.gif
