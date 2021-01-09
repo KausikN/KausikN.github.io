@@ -1,3 +1,13 @@
+- title: ChaosVis
+  url: https://github.com/KausikN/ChaosVis
+  image: images/ChaosVis_1.gif
+  completed: true
+
+- title: DaVIS
+  url: https://github.com/KausikN/DaVIS
+  image: images/DaVIS_2.gif
+  completed: true
+
 - title: Conway's Game of Life
   url: https://github.com/KausikN/ConwaysGameofLife
   image: images/Conway_1.gif
@@ -8,14 +18,24 @@
   image: images/ImTron_1.gif
   completed: true
 
+- title: SkelAnim
+  url: https://github.com/KausikN/SkelAnim
+  image: images/SkelAnim.png
+  completed: true
+  
+- title: ProcLab
+  url: https://github.com/KausikN/ProcLab
+  image: images/ProcLab_1.png
+  completed: true
+
+- title: RPA
+  url: https://github.com/KausikN/RPA
+  image: images/RPA_1.png
+  completed: true
+
 - title: AutoUI
   url: https://github.com/KausikN/AutoUI
   image: images/AutoUI_1.gif
-  completed: true
-
-- title: DaVIS
-  url: https://github.com/KausikN/DaVIS
-  image: images/DaVIS_1.gif
   completed: true
 
 - title: Pixel Break
