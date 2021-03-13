@@ -1,3 +1,13 @@
+- title: VidFX
+  url: https://github.com/KausikN/VidFX
+  image: images/VidFX_1.gif
+  completed: true
+
+- title: TerrainGen
+  url: https://github.com/KausikN/TerrainGen
+  image: images/TerrainGen_1.png
+  completed: true
+
 - title: ChaosVis
   url: https://github.com/KausikN/ChaosVis
   image: images/ChaosVis_1.gif
